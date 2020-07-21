@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CountCSV:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CountCSV_jar</output-path>
+    <root id="archive" name="CountCSV.jar">
+      <element id="module-output" name="CountCSV" />
+    </root>
+  </artifact>
+</component>
